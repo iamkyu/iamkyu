@@ -20,7 +20,7 @@
 More on [namkyujin.com](https://namkyujin.com/)
 </td><td valign="top" width="33%">
 
-### Recent Reads
+### Recent reads
 
 <!-- recent_reads starts -->
 
