@@ -1,16 +1,35 @@
-### Hi there 👋
+<table><tr><td valign="top" width="33%">
 
-<!--
-**iamkyu/iamkyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Recent codes
 
-Here are some ideas to get you started:
+<!-- recent_releases starts -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- place-search (will be updated soon!)
+- lucky-money (will be updated soon!)
+- [url-shortener](https://github.com/iamkyu/url-shortener)
+</td><td valign="top" width="34%">
+
+### On my blog
+
+<!-- blog starts -->
+
+- [Java, Call By Reference 에 대한 오해](https://namkyujin.com/2019-11-09/java-call-by-reference/)
+- [Amazon SQS 에서 배달 못한 편지 처리](https://namkyujin.com/2019-10-23/amazon-sqs-dlq/)
+- [학습에 실패한 이야기 (Link)](http://woowabros.github.io/experience/2017/12/11/how-to-study.html)
+<!-- blog ends -->
+More on [namkyujin.com](https://namkyujin.com/)
+</td><td valign="top" width="33%">
+
+### Recent Reads
+
+<!-- recent_reads starts -->
+
+- [데이터중심 애플리케이션 설계](https://github.com/iamkyu/TIL/blob/master/books/summary/ddia.md)
+- [Release It](https://github.com/iamkyu/TIL/blob/master/books/summary/release-it.md)
+- [Java Performance Fundamental](https://github.com/iamkyu/TIL/blob/master/books/summary/java-performance-fundamental.md)
+<!-- tils ends -->
+More on [TIL/BOOKS](https://github.com/iamkyu/TIL/blob/master/books/books.md)
+</td></tr></table>
+
+
+Template by <a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">simonw</a>
