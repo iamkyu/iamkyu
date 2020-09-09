@@ -1,3 +1,5 @@
+- [LinkedIn Profile](www.linkedin.com/in/kyujinnam)
+
 <table><tr><td valign="top" width="33%">
 
 ### Recent codes
