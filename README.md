@@ -1,4 +1,4 @@
-- [LinkedIn Profile](www.linkedin.com/in/kyujinnam)
+- [LinkedIn Profile](https://www.linkedin.com/in/kyujinnam/)
 
 <table><tr><td valign="top" width="33%">
 
