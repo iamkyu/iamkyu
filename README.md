@@ -26,9 +26,10 @@ More on [namkyujin.com](https://namkyujin.com/)
 
 <!-- recent_reads starts -->
 
+- [Get Your Hands Dirty on Clean Architecture](https://github.com/iamkyu/TIL/blob/master/books/summary/get-your-hands-ca.md)
 - [데이터중심 애플리케이션 설계](https://github.com/iamkyu/TIL/blob/master/books/summary/ddia.md)
 - [Release It](https://github.com/iamkyu/TIL/blob/master/books/summary/release-it.md)
-- [Java Performance Fundamental](https://github.com/iamkyu/TIL/blob/master/books/summary/java-performance-fundamental.md)
+
 <!-- tils ends -->
 More on [TIL/BOOKS](https://github.com/iamkyu/TIL/blob/master/books/books.md)
 </td></tr></table>
