@@ -15,7 +15,6 @@
 
 <!-- blog starts -->
 
-- [Java, Call By Reference 에 대한 오해](https://namkyujin.com/post/20191109-java-call-by-reference/)
 - [Amazon SQS 에서 배달 못한 편지 처리](https://namkyujin.com/post/20191023-amazon-sqs-dlq/)
 - [학습에 실패한 이야기 (Link)](http://woowabros.github.io/experience/2017/12/11/how-to-study.html)
 <!-- blog ends -->
