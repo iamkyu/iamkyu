@@ -6,8 +6,8 @@
 
 <!-- recent_releases starts -->
 
-- [place-search](https://github.com/iamkyu/place-search)
 - [lucky-money](https://github.com/iamkyu/lucky-money)
+- [place-search](https://github.com/iamkyu/place-search)
 - [url-shortener](https://github.com/iamkyu/url-shortener)
 </td><td valign="top" width="34%">
 
