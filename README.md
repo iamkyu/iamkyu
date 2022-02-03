@@ -9,6 +9,8 @@
 - [lucky-money](https://github.com/iamkyu/lucky-money)
 - [place-search](https://github.com/iamkyu/place-search)
 - [url-shortener](https://github.com/iamkyu/url-shortener)
+- [그 외 학습 및 각종 실험을 위한 코드들](https://github.com/scratchstudio)
+  
 </td><td valign="top" width="34%">
 
 ### On my blog
